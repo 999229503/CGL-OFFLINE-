@@ -1,0 +1,21 @@
+# Dependências e build
+node_modules/
+dist/
+dist-ssr/
+*.tsbuildinfo
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / sistema
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
